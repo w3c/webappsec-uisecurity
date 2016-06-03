@@ -8,4 +8,4 @@ install:
   - pip install --editable ./bikeshed
   - bikeshed update
 script:
-  bikeshed spec ./index.src.html
+  bikeshed spec ./index.bs
