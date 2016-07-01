@@ -2,7 +2,7 @@
 Title: User Interface Security and the Visibility API
 Status: WD
 Group: WebAppSec
-ED: https://w3c.github.io/webappsec/specs/uisecurity/
+ED: https://w3c.github.io/webappsec-uisecurity/
 Shortname: UI Security
 Level: 1
 Editor: Brad Hill, Facebook, hillbrad@fb.com
