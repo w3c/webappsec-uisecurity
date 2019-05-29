@@ -1,5 +1,7 @@
 
-# Specification 'webappsec-uisecurity'
+# User Interface Security and the Visibility API Specification
 
-This is the repository for webappsec-uisecurity. You're welcome to contribute! Let's make the Web rock our socks
-off!
+[Editor draft](https://w3c.github.io/webappsec-uisecurity/)
+
+[Working Draft](https://www.w3.org/TR/UISecurity/)
+
