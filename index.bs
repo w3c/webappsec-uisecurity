@@ -2,6 +2,7 @@
 Title: User Interface Security and the Visibility API
 Status: WD
 Group: WebAppSec
+TR: https://www.w3.org/TR/UISecurity/
 ED: https://w3c.github.io/webappsec-uisecurity/
 Shortname: UISecurity
 Level: 1
